@@ -1,0 +1,28 @@
+.contact__list {
+  padding: 15px;
+  width: 400px;
+  background-color: aliceblue;
+}
+
+.contact__item {
+  display: flex;
+}
+
+/* .contact__name {
+} */
+
+.contact__name:not(:last-child) {
+  margin-bottom: 15px;
+}
+
+.contact__btn {
+  margin-left: auto;
+  margin-right: 20px;
+  width: 80px;
+  height: 25px;
+  border: 1px black;
+  background-color: antiquewhite;
+  box-shadow: 0 4px 10px rgb(0 0 0 / 25%), 0 -12px 30px rgb(0 0 0 / 12%),
+    0 4px 6px rgb(0 0 0 / 12%), 0 12px 13px rgb(0 0 0 / 17%),
+    0 -3px 5px rgb(0 0 0 / 9%);
+}

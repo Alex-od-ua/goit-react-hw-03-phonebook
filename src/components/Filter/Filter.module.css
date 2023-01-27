@@ -1,0 +1,15 @@
+.filter__title {
+  margin-bottom: 20px;
+}
+
+.filter__input {
+  height: 20px;
+}
+
+.filter__item {
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+  width: 400px;
+  background-color: aliceblue;
+}

@@ -1,0 +1,35 @@
+.contact__form {
+  /* height: 50px; */
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+  width: 400px;
+  background-color: aliceblue;
+  /* box-shadow: 0 54px 55px rgb(0 0 0 / 25%), 0 -12px 30px rgb(0 0 0 / 12%),
+    0 4px 6px rgb(0 0 0 / 12%), 0 12px 13px rgb(0 0 0 / 17%),
+    0 -3px 5px rgb(0 0 0 / 9%); */
+}
+
+.input__name {
+  margin-left: 40px;
+  margin-bottom: 20px;
+  width: 309px;
+  height: 20px;
+}
+
+.input__number {
+  margin-left: 24px;
+  margin-bottom: 20px;
+  width: 309px;
+  height: 20px;
+}
+
+.input__btn {
+  width: 100px;
+  height: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 0 54px 55px rgb(0 0 0 / 25%), 0 -12px 30px rgb(0 0 0 / 12%),
+    0 4px 6px rgb(0 0 0 / 12%), 0 12px 13px rgb(0 0 0 / 17%),
+    0 -3px 5px rgb(0 0 0 / 9%);
+}
